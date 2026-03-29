@@ -10,7 +10,7 @@ A compact, battery-powered Wi-Fi attack simulation tool built on the **ESP8266 N
 
 The entire build costs approximately ₹850 (~$10) — 98% more affordable than PC-based alternatives like LOIC or Hping3.
 
-**Research Paper:** *Portable DDoS Attack Stimulation* — R. Sreenidhi & Dr. Shweta Suryawanshi, Dr. D.Y. Patil Institute of Engineering, Management & Research, Pune, India. *(Publication in progress)*
+**Research Paper:** *Portable DDoS Attack Stimulation* — R. Sreenidhi & Dr. Shweta Suryawanshi, Dr. D.Y. Patil Institute of Engineering, Management & Research, Pune, India. *(Publication pending)*
 
 ---
 
@@ -102,7 +102,8 @@ Run ESP8266Flasher.exe (Windows)
 ---
 
 ## Project Flowchart
-<img width="1881" height="3440" alt="Flowchart" src="https://github.com/user-attachments/assets/99c9186b-c853-44fa-9359-012fee8c3fe5" />
+
+![Flowchart](docs/hardware/flowchart.png)
 
 ---
 
@@ -116,7 +117,7 @@ Run ESP8266Flasher.exe (Windows)
 | Probe packet rate | 10 → 50 pkts/s |
 | Cost vs LOIC/Hping3 | 98% more affordable |
 
-### vs. PC-Based Tools
+### This Tool vs. LOIC / Hping3
 
 | Feature | This Tool | LOIC / Hping3 |
 |---|---|---|
