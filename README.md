@@ -28,8 +28,8 @@ The entire build costs approximately ₹850 (~$10) — 98% more affordable than 
 
 ### Hardware Photos
 
-#### Circuit Schematic
-![Schematic](docs/hardware/flow_chart.jpeg)
+#### Hardware Connection Schematic
+![Hardware Schematic](docs/hardware/hardware_schematic.png)
 
 #### Actual Build
 ![Hardware](docs/hardware/hardware.jpeg)
@@ -102,22 +102,7 @@ Run ESP8266Flasher.exe (Windows)
 ---
 
 ## Project Flowchart
-
-```
-Initialize ESP8266 → Configure Network Settings → Establish Wi-Fi Connectivity
-        ↓
-Configure Attack Parameters → Lock Target IP/Network
-        ↓
-Select Attack Type → Execute (Deauth / Beacon Flood / Probe Request)
-        ↓
-Monitor: Packet Loss Rate, System Usage
-        ↓
-Power Management → Charging Module + LiPo Battery (portable operation)
-        ↓
-Remote Start/Stop + Parameter Adjustment
-        ↓
-End Simulation → Collect Data → Document Results
-```
+<img width="1881" height="3440" alt="Flowchart" src="https://github.com/user-attachments/assets/99c9186b-c853-44fa-9359-012fee8c3fe5" />
 
 ---
 
