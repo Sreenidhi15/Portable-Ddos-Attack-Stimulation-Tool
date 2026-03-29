@@ -10,7 +10,7 @@ A compact, battery-powered Wi-Fi attack simulation tool built on the **ESP8266 N
 
 The entire build costs approximately ₹850 (~$10) — 98% more affordable than PC-based alternatives like LOIC or Hping3.
 
-**Research Paper:** *Portable DDoS Attack Stimulation* — R. Sreenidhi & Dr. Shweta Suryawanshi, Dr. D.Y. Patil Institute of Engineering, Management & Research, Pune, India. *(Publication pending)*
+**Research Paper:** *Portable DDoS Attack Stimulation* — R. Sreenidhi & Dr. Shweta Suryawanshi, Dr. D.Y. Patil Institute of Engineering, Management & Research, Pune, India. *(Publication in progress)*
 
 ---
 
