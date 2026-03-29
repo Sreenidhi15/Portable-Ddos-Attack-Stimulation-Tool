@@ -29,10 +29,10 @@ The entire build costs approximately ₹850 (~$10) — 98% more affordable than 
 ### Hardware Photos
 
 #### Hardware Connection Schematic
-![Hardware Schematic](docs/hardware/hardware_schematic.png)
+<img width="600" alt="Hardware Schematic" src="docs/hardware/hardware_schematic.png" />
 
 #### Actual Build
-![Hardware](docs/hardware/hardware.jpeg)
+<img width="600" alt="Hardware" src="docs/hardware/hardware.jpeg" />
 
 *NodeMCU ESP8266 + TP4056 charging module + boost converter + 18650 Li-ion cell, housed in a portable cardboard enclosure.*
 
