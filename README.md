@@ -103,7 +103,7 @@ Run ESP8266Flasher.exe (Windows)
 
 ## Project Flowchart
 
-![Flowchart](docs/hardware/flowchart.png)
+<img width="1881" height="3440" alt="Flowchart" src="https://github.com/user-attachments/assets/149f089a-9d93-44ea-97bd-e084c52a1bdb" />
 
 ---
 
